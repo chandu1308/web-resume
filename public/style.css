@@ -396,7 +396,19 @@ button {
   .resume {
     width: 100%;
   }
-
+.sign p {
+    color: #4d4d4d;
+    margin-left: inherit;
+    padding-bottom: inherit;
+    padding-right: inherit;
+    font-weight: 700;
+}
+.head {
+  display: inline-block;
+}
+.date {
+    padding: initial;
+}
   .main-heading {
     width: auto;
     font-size: 31px;
